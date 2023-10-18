@@ -10,7 +10,7 @@ A series of models created to acheive the objective of predicting CGPA are as fo
 Machine Learning models  | Accuracy
 ------------- | -------------
  Linear Regression   | 96.34 %
- Decision Tree  | 83.05 %
+ Decision Tree  | 84.39  %
  KNN  | 91.50 %
  SVM | 94.53 % 
  GPR |  85.73 %

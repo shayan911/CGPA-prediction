@@ -1,0 +1,36 @@
+.navbar,.navbar-brand{
+     color: whitesmoke !important;
+     background-color: #1F0E42 !important;
+     font-size: larger !important;
+     
+}
+.dropdown{
+    padding-right: 60px;
+}
+#aa{
+    margin-top: 7px;
+}
+#main{
+    margin-right: auto;
+    margin-left: auto;
+    width: 90%;
+    margin-top: 20px;
+    border: 5px solid #1F0E42 !important;
+    border-radius: 5px;
+    padding: 15px;
+   
+}
+.b{
+margin-top: 10px;
+text-align: right;
+ 
+}
+.gpa{
+    margin-top: 30px;
+    text-align: center;
+}
+.heading{
+    margin-left: 70px;
+    margin-top: 10px;
+    
+}
